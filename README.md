@@ -76,7 +76,7 @@
   </a>
 
   <a href="mailto:talharashid8605@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail">
 </a>
 
   <a href="https://linkedin.com">
