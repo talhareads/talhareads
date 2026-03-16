@@ -12,9 +12,9 @@
 ## 🧠 About Me
 
 - 🎓 Undergraduate **Artificial Intelligence** student  
-- 🤖 Interested in **Machine Learning, Data & Smart Systems**  
+- 🤖 Interested in **Machine Learning, Data Science & Intelligent Systems**  
 - 💻 Programming in **Python & C++**  
-- 🌱 Currently learning **ML algorithms & DSA**  
+- 🌱 Currently learning **Machine Learning Algorithms & Data Structures**  
 - 🎯 Goal: **AI Internship → AI Engineer**
 
 ---
@@ -74,9 +74,11 @@
   <a href="https://github.com/talhareads">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="talharashid8605@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:talharashid8605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-talharashid8605@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
