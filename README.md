@@ -1,51 +1,52 @@
-<!-- =================== AI VISUAL PROFILE =================== -->
-
-<h1 align="center">👋 Hi, I'm Talha Rashid</h1>
-<h3 align="center">🤖 Artificial Intelligence Student | Future AI Engineer | 🇵🇰 Pakistan</h3>
+<h1 align="center">Talha Rashid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+%7C+C%2B%2B+Programmer;Building+Intelligent+Systems;Always+Learning+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Intern;Artificial+Intelligence+Student;Python+%7C+C%2B%2B+Developer;Building+Intelligent+Systems" />
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Undergraduate **Artificial Intelligence** student  
-- 🤖 Interested in **Machine Learning, Data Science & Intelligent Systems**  
-- 💻 Programming in **Python & C++**  
-- 🌱 Currently learning **Machine Learning Algorithms & Data Structures**  
-- 🎯 Goal: **AI Internship → AI Engineer**
+<h3 align="center">🤖 Machine Learning Intern | Artificial Intelligence Student | Pakistan 🇵🇰</h3>
 
 ---
 
-## 🧠 AI & Tech Stack
+## 👋 About Me
 
-### 👨‍💻 Programming Languages
+I'm an Artificial Intelligence undergraduate passionate about building intelligent systems and solving real-world problems using Machine Learning and Data Science.
+
+- 🤖 Machine Learning Intern  
+- 🎓 Artificial Intelligence Student  
+- 🐍 Python & C++ Developer  
+- 📊 Data Science & Analytics Enthusiast  
+- 🚀 Focused on AI-powered real-world applications  
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
-### 🤖 AI / Data Tools
+### 📊 AI / Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,anaconda" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talhareads&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhareads&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talhareads&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhareads&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -53,39 +54,39 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhareads&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=talhareads&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Current AI Learning Path
+## 🚀 Current Focus
 
-✔ Python for AI  
-✔ Linear Algebra & Probability  
-✔ Machine Learning Models  
-✔ Data Analysis  
-✔ Real-world AI Projects  
+- Machine Learning Projects  
+- Data Science & Analytics  
+- Deep Learning Fundamentals  
+- Open Source Contributions  
+- Problem Solving (DSA)  
+
+---
+
+## 📌 Featured Projects
+
+- 🧠 Machine Learning Projects (Add your repos here)
+- 📊 Data Analysis Projects
+- 🤖 AI Mini Projects
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/talhareads">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+📧 Email: **talharashid8605@gmail.com**
 
- <a href="mailto:talharashid8605@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail">
-</a>
+💼 LinkedIn: **www.linkedin.com/in/talha-rashid-1b33bb293**
 
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+🐙 GitHub: **https://github.com/talhareads**
 
 ---
 
 <p align="center">
-⭐ <b>talhareads</b> | Artificial Intelligence Student
+⭐ Talha Rashid | Building Intelligent Systems with AI
 </p>
